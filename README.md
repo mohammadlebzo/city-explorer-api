@@ -27,6 +27,7 @@ This is an API built to communicate with 3rd party APIs, to collect data which c
 - 20-09-2021 10:43pm - The API is capable of receiving requests and sending responses.
 - 21-09-2021 10:46pm - The API Gets Info from the "WeatherBit API" and "The Movie DB API".
 - 22-09-2021 03:14pm - Refactored the code, added weather and movies modules.
+- 24-09-2021 07:35pm - The API server caches data, also gives the data that was cached a timeStamp.
 
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
