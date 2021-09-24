@@ -7,7 +7,7 @@ const cors = require('cors');
 
 const server = express();
 
-const axios = require('axios')
+const axios = require('axios');
 
 // Modules---------------------------------------//
 const weatherRoute = require('./Modules/weather');
